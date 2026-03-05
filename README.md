@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahana-bs-dev/DSA/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/sahana-bs-dev/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sahana-bs-dev/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/sahana-bs-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahana-bs-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -25,4 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahana-bs-dev/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
