@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sahana-bs-dev/DSA/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahana-bs-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sahana-bs-dev/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sahana-bs-dev/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/sahana-bs-dev/DSA/tree/master/0485-max-consecutive-ones) |
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/sahana-bs-dev/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
