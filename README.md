@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahana-bs-dev/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sahana-bs-dev/DSA/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/sahana-bs-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahana-bs-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/sahana-bs-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahana-bs-dev/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/sahana-bs-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sahana-bs-dev/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahana-bs-dev/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sahana-bs-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
