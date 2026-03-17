@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sahana-bs-dev/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahana-bs-dev/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sahana-bs-dev/DSA/tree/master/0189-rotate-array) |
+| [2652-sum-multiples](https://github.com/sahana-bs-dev/DSA/tree/master/2652-sum-multiples) |
 ## Two Pointers
 |  |
 | ------- |
