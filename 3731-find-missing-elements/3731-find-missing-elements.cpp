@@ -8,7 +8,7 @@ public:
         vector<int>result;
         int j=0;
         for(int i=k;i<=n;i++){
-            if(j<nums.size() && nums[j]==i){
+            if( nums[j]==i){
                 j++;
             }
             else{
