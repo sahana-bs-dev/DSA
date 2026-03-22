@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahana-bs-dev/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahana-bs-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3731-find-missing-elements](https://github.com/sahana-bs-dev/DSA/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sahana-bs-dev/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/sahana-bs-dev/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahana-bs-dev/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3731-find-missing-elements](https://github.com/sahana-bs-dev/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sahana-bs-dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sahana-bs-dev/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/sahana-bs-dev/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
