@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sahana-bs-dev/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sahana-bs-dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [2652-sum-multiples](https://github.com/sahana-bs-dev/DSA/tree/master/2652-sum-multiples) |
+| [3536-maximum-product-of-two-digits](https://github.com/sahana-bs-dev/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sahana-bs-dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sahana-bs-dev/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sahana-bs-dev/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sahana-bs-dev/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
