@@ -1,21 +1,32 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        // int count = 0;
-        // int max_count=0;
-        // for(int i=0;i<nums.size()-1;i++){
-        //     if(nums[i]==nums[i+1]){
-        //         count++;
-        //         if(count>max_count){
-        //             max_count=count;
-        //         }
-        //     }
-        //     else{
-        //         count=0;
-        //     }
-        // }
-        
-      return nums[nums.size()/2];
+        // sort(nums.begin(),nums.end()); 
+        //  return nums[nums.size()/2];
+        // Moores voting Algorithm
+        int count = 0;
+        int elm;
+        for(int i=0;i<nums.size();i++){
+            if(count==0){
+                count = 1;
+                elm = nums[i];
+            }
+            else if(nums[i]==elm){
+                count++;
+            }
+            else{
+                count--;
+            } 
+        }
+        int count1=0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==elm){
+                count1++;
+            }
+            if(count1>nums.size()/2){
+                return elm;
+            }
+        }
+        return -1;
     }
 };
