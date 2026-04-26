@@ -4,8 +4,8 @@ public:
        int rows = matrix.size();
        int cols = matrix[0].size();
 
-       vector<int> row(rows,0);
-       vector<int> col(cols,0);
+       vector<int> row(rows);
+       vector<int> col(cols);
 
        for(int i=0;i<rows;i++){
         for(int j=0;j<cols;j++){
