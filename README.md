@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sahana-bs-dev/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahana-bs-dev/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sahana-bs-dev/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sahana-bs-dev/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahana-bs-dev/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahana-bs-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2733-neither-minimum-nor-maximum](https://github.com/sahana-bs-dev/DSA/tree/master/2733-neither-minimum-nor-maximum) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahana-bs-dev/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sahana-bs-dev/DSA/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
